@@ -1,2 +1,5 @@
 # Hello-World
-This is my First Git sample
+
+Hello..
+This is a wonderful word to greet... 
+Loving the Git
